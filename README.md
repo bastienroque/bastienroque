@@ -1,14 +1,13 @@
 # Bastien Roque 🇫🇷 🇵🇹
 
-**`FullStack Developer`**
+**`🚀 FullStack Developer`**
 
-Full-stack Developer focused on React, Next.js, TypeScript and API integrations.
-
-Background in technical support and customer operations with experience debugging integrations and troubleshooting production issues.
+Focused on React, Next.js, TypeScript and API integrations.
+With a background in technical support and customer operations with experience debugging integrations and troubleshooting production issues.
 
 ---
 
-### 🤖 Current Stack
+### 🧰 Current Stack
 
 <img 
     align="left" 
