@@ -115,6 +115,14 @@ With a background in technical support and customer operations with experience d
 />
 <img 
     align="left" 
+    alt="Vercel" 
+    title="Vercel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+/>
+<img 
+    align="left" 
     alt="GoogleCloud" 
     title="GoogleCloud"
     width="30px" 
