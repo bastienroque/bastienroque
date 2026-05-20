@@ -91,14 +91,6 @@ With a background in technical support and customer operations with experience d
 />
 <img 
     align="left" 
-    alt="Mongoose" 
-    title="Mongoose"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg"
-/>
-<img 
-    align="left" 
     alt="Postman" 
     title="Postman"
     width="30px" 
