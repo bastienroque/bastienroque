@@ -2,6 +2,9 @@
 
 **`🚀 FullStack Developer`**
 
+### About
+
+26, currently based in Portugal.<br>
 Focused on React, Next.js, TypeScript and API integrations.
 With a background in technical support and customer operations with experience debugging integrations and troubleshooting production issues.
 
@@ -137,3 +140,15 @@ With a background in technical support and customer operations with experience d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
+<br><br>
+---
+
+### 🏆 Featured project
+
+<a href="https://news-explorer-frontend-1ct6yvau5-bastien-roque.vercel.app/" target="_blank"><b>News Explorer</b></a>
+<p>React-based web application that allows users to search for news articles through the NewsAPI service, save favorite articles, and manage authentication through protected routes.
+
+This project was developed as part of the TripleTen Brasil Web Development program.</p>
+
+
+
