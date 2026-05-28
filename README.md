@@ -143,12 +143,17 @@ With a background in technical support and customer operations with experience d
 <br><br>
 ---
 
-### 🏆 Featured project
+### 🏆 Featured projects
 
 <a href="https://news-explorer-git-stage-react-auth-bastien-roque.vercel.app/" target="_blank"><b>News Explorer</b></a>
 <p>React-based web application that allows users to search for news articles through the NewsAPI service, save favorite articles, and manage authentication through protected routes.
 
 This project was developed as part of the TripleTen Brasil Web Development program.</p>
+
+---
+
+<a href="https://random-fm-app.vercel.app/" target="_blank"><b>RandomFM</b></a>
+<p>A modern, minimal radio streaming app built with Next.js, TypeScript, Tailwind CSS, and the Radio Browser API. It lets you explore and stream live radio stations from around the world with a clean, responsive interface.
 
 
 
