@@ -4,9 +4,11 @@
 
 ### About
 
-26, currently based in Portugal.<br>
-Focused on React, Next.js, TypeScript and API integrations.
+27, currently based in Portugal.<br>
+A developer who can talk to clients, understand UX, and who tries to build things that look good.<br>
+Focused on React, Next.js, TypeScript and API integrations.<br>
 With a background in technical support and customer operations with experience debugging integrations and troubleshooting production issues.
+
 
 ---
 
@@ -143,14 +145,7 @@ With a background in technical support and customer operations with experience d
 <br><br>
 ---
 
-### 🏆 Featured projects
-
-<a href="https://news-explorer-git-stage-react-auth-bastien-roque.vercel.app/" target="_blank"><b>News Explorer</b></a>
-<p>React-based web application that allows users to search for news articles through the NewsAPI service, save favorite articles, and manage authentication through protected routes.
-
-This project was developed as part of the TripleTen Brasil Web Development program.</p>
-
----
+### 🏆 Featured project
 
 <a href="https://random-fm-app.vercel.app/" target="_blank"><b>RandomFM</b></a>
 <p>A modern, minimal radio streaming app built with Next.js, TypeScript, Tailwind CSS, and the Radio Browser API. It lets you explore and stream live radio stations from around the world with a clean, responsive interface.
