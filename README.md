@@ -147,7 +147,7 @@ With a background in technical support and customer operations with experience d
 
 ### 🏆 Featured project
 
-<a href="https://your-francesinha-app-url.com/" target="_blank"><b>Francesinha Guide</b></a>
+<a href="https://cavaleirosdafrancesinha.com/" target="_blank"><b>Cavaleiros da Francesinha</b></a>
 <p>A multilingual (PT, EN, FR) community platform for discovering, reviewing, and ranking the best Francesinhas. Built with Next.js, TypeScript, Tailwind CSS, Supabase, and Drizzle ORM.</p>
 
 **Features**
