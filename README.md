@@ -147,8 +147,23 @@ With a background in technical support and customer operations with experience d
 
 ### 🏆 Featured project
 
-<a href="https://random-fm-app.vercel.app/" target="_blank"><b>RandomFM</b></a>
-<p>A modern, minimal radio streaming app built with Next.js, TypeScript, Tailwind CSS, and the Radio Browser API. It lets you explore and stream live radio stations from around the world with a clean, responsive interface.
+<a href="https://your-francesinha-app-url.com/" target="_blank"><b>Francesinha Guide</b></a>
+<p>A multilingual (PT, EN, FR) community platform for discovering, reviewing, and ranking the best Francesinhas. Built with Next.js, TypeScript, Tailwind CSS, Supabase, and Drizzle ORM.</p>
+
+**Features**
+
+- **Directory & search:** Browse restaurants by city, price range, and score, with localized routing.
+- **Interactive map:** Leaflet cluster map to find nearby Francesinhas, plus Google Maps for geocoding and directions.
+- **Honor Roll:** Leaderboard ranking top establishments by weighted community and expert reviews.
+- **User reviews:** Each restaurant page shows individual user reviews, with scores and comments from the community.
+- **Blog & events:** Localized posts on Francesinha culture, plus tastings, meetups, and restaurant crawls.
+- **Transactional emails:** Resend-powered notifications for review moderation and event announcements.
+- **Admin dashboard:** RBAC-protected hub for stats, restaurant management, review moderation, blog and event editing, and translations.
+- **E2E testing:** Playwright coverage across desktop and mobile viewports.
+
+**Tech stack**
+
+Next.js (App Router, Server Actions), React 19, TypeScript, Tailwind CSS, Lucide React, PostgreSQL (Supabase), Drizzle ORM, next-intl, Leaflet / React Leaflet, Google Maps API, Resend, Playwright.
 
 
 
